@@ -1,5 +1,5 @@
-hgs.hkbuniverse.hkbu.app:7770
-hgs.hkbuniverse.hkbu.app:7770
+hgs-01.hkbuniverse.hkbu.app:7751
+hgs-02.hkbuniverse.hkbu.app:7752
 hgs.hkbuniverse.hkbu.app:7770
 hgs.hkbuniverse.hkbu.app:7770
 hgs.hkbuniverse.hkbu.app:7770
