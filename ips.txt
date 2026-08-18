@@ -1,7 +1,7 @@
 hgs-01.hkbuniverse.hkbu.app:7751
 hgs-02.hkbuniverse.hkbu.app:7752
-158.182.97.173:7770
-158.182.97.163:7770
+hgs-03.hkbuniverse.hkbu.app:7753
+hgs-04.hkbuniverse.hkbu.app:7754
 hgs-05.hkbuniverse.hkbu.app:7755
 hgs-06.hkbuniverse.hkbu.app:7756
 hgs-07.hkbuniverse.hkbu.app:7757
